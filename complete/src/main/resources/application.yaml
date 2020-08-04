@@ -1,0 +1,6 @@
+spring:
+  profiles:
+    include: 'error'
+
+server:
+  port: 8080
